@@ -1,4 +1,5 @@
 # ansible-dev (Project Title)
+I would like to learn more about how to version control projects with git.
  
  One paragraph of your project description goes here. Describe what you're trying to do.
  What is the purpose of putting up this repo?
